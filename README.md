@@ -116,4 +116,4 @@ The output like:
 
 ## Thanks
 
-Thanks alecthomas for providing the [original resource](https://github.com/jeanphorn/log4go).
+Thanks jeanphorn for providing the [original resource](https://github.com/jeanphorn/log4go).
